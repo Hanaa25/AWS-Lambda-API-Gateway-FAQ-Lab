@@ -196,22 +196,11 @@ Through this lab, I practiced:
 
 ---
 
-## 🛠️ Technologies
+## Conclusion
 
-* AWS Lambda
-* Amazon API Gateway
-* Amazon CloudWatch
-* Amazon VPC
-* Node.js
-* JavaScript
-* REST API
-* JSON
+This lab demonstrates how AWS Lambda and Amazon API Gateway can be combined to build a simple serverless application without managing servers. The Lambda function processes requests and returns a randomly selected FAQ, while API Gateway provides a RESTful endpoint that allows users to access the function through a web request.
 
----
+The lab also demonstrates the importance of testing Lambda functions and reviewing execution logs through Amazon CloudWatch. Overall, this hands-on implementation provides practical experience with building, exposing, testing, and monitoring a serverless API using AWS services.
 
-## 📚 Lab Reference
-
-**Introduction to Amazon API Gateway**
-**SPL-58 — Version 2.0.38**
 
 This repository documents practical hands-on work completed in an AWS training lab and is maintained as a personal learning and portfolio project.
